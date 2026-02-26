@@ -1,0 +1,25 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "description": " prima applicazione con NodeJs ",
+  "keywords": [
+    "server",
+    "nodejs",
+    "boolean"
+  ],
+  "homepage": "https://github.com/giovannimazzi/node-hello-world#readme",
+  "bugs": {
+    "url": "https://github.com/giovannimazzi/node-hello-world/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovannimazzi/node-hello-world.git"
+  },
+  "license": "ISC",
+  "author": "Giovanni Mazzi <giovanni.mazzi.19@gmail.com>",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
